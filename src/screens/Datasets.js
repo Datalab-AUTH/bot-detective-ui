@@ -23,12 +23,11 @@ const Datasets = () => (
 								<Button
 									as="a"
 									color="teal"
-									download="bot-detective-2020"
-									href="/downloads/dataset.zip"
+									href="mailto:idimitriad@csd.auth.gr"
 								>
-									{"Download 3.1GB"}
+									{"Request via email"}
 									&emsp;
-									<Icon name="download" />
+									<Icon name="envelope" />
 								</Button>
 							</Card.Description>
 						</Card.Content>
